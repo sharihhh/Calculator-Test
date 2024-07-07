@@ -1,0 +1,1 @@
+This project is a basic calculator application built with PHP to hone my skills in server-side scripting logic and user input processing. It replicates the functionality of a standard iPhone calculator for practice purposes.
